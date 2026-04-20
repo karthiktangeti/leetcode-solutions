@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
