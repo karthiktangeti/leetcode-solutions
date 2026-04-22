@@ -1,9 +1,4 @@
-## Array
-|  |
-| ------- |
-| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
-| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
-| [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+
 
 ## Greedy
 |  |
@@ -36,3 +31,21 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maverick-841/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Maverick-841/leetcode-solutions/tree/master/0322-coin-change) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Maverick-841/leetcode-solutions/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Maverick-841/leetcode-solutions/tree/master/0322-coin-change) |
+<!---LeetCode Topics End-->
