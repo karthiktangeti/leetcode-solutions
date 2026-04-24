@@ -21,6 +21,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2615-sum-of-distances](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Dynamic Programming
@@ -133,6 +134,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Maverick-841/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1720-decode-xored-array) |
 ## Matrix
 |  |
 | ------- |
