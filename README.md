@@ -24,6 +24,7 @@
 | [1720-decode-xored-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2506-count-pairs-of-similar-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2615-sum-of-distances](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Maverick-841/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2615-sum-of-distances](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Heap (Priority Queue)
 |  |
@@ -93,6 +95,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maverick-841/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Two Pointers
 |  |
@@ -111,6 +114,7 @@
 | [0402-remove-k-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
@@ -147,6 +151,7 @@
 | [1720-decode-xored-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2351-first-letter-to-appear-twice](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 ## Matrix
 |  |
 | ------- |
