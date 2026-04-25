@@ -77,6 +77,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Maverick-841/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0652-find-duplicate-subtrees](https://github.com/Maverick-841/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2615-sum-of-distances](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Heap (Priority Queue)
 |  |
@@ -91,6 +92,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maverick-841/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Two Pointers
 |  |
@@ -108,6 +110,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
@@ -143,6 +146,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2351-first-letter-to-appear-twice](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
