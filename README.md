@@ -23,6 +23,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/Maverick-841/leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0397-integer-replacement](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0011-container-with-most-water](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/Maverick-841/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Maverick-841/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
@@ -104,4 +106,9 @@
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0397-integer-replacement](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
