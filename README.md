@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0563-binary-tree-tilt](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Trie
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0563-binary-tree-tilt](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0563-binary-tree-tilt](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
 | ------- |
