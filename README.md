@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2540-minimum-common-value](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
