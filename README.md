@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
+| [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Array
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
