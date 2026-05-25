@@ -7,6 +7,6 @@ class Solution(object):
                 a_sum += i
             else:
                 b_sum += i
-        if a_sum > b_sum or b_sum > a_sum:
-            return True
-        return False
+        if a_sum == b_sum:
+            return False
+        return True
