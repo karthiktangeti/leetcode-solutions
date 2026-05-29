@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2540-minimum-common-value](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
