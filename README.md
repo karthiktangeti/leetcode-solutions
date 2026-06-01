@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0565-array-nesting](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0565-array-nesting) |
+| [0605-can-place-flowers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0908-smallest-range-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
