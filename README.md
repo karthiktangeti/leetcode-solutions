@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 <!---LeetCode Topics End-->
