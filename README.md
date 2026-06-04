@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0565-array-nesting](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0605-can-place-flowers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0661-image-smoother) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
