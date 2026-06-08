@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
