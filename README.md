@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1310-xor-queries-of-a-subarray](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1732-find-the-highest-altitude](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
