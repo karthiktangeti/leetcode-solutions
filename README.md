@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0303-range-sum-query-immutable](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
