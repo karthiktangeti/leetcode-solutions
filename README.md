@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1710-maximum-units-on-a-truck](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
