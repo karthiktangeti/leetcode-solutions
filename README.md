@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
