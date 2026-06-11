@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0908-smallest-range-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
