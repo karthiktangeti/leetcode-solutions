@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
