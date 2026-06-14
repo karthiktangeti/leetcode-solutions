@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -396,4 +398,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
