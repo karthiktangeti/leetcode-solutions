@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0812-largest-triangle-area](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0866-prime-palindrome](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [0908-smallest-range-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -409,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
