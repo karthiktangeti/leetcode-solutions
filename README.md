@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2578-split-with-minimum-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2578-split-with-minimum-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 ## Bit Manipulation
 |  |
