@@ -5,17 +5,24 @@
 #         self.next = next
 class Solution(object):
     def reverseKGroup(self, head, k):
-        arr = []
-        temp = head
-        while temp:
-            arr.append(temp.val)
-            temp = temp.next
-        for i in range(0,len(arr),k):
-            if i + k <= len(arr):
-                arr[i:i+k] = arr[i:i+k][::-1]
         dummy = ListNode(0)
-        curr = dummy
-        for i in arr:
-            curr.next = ListNode(i)
-            curr = curr.next
-        return dummy.next
+        dummy.next = head
+        group_prev = dummy
+        while True:
+            kh = group_prev
+            for i in range(k):
+                kh = kh.next
+                if not kh:
+                    return dummy.next
+            group_next = kh.next
+            prev = group_next
+            curr = group_prev.next
+            while curr != group_next:
+                nxt = curr.next
+                curr.next = prev
+                prev = curr
+                curr = nxt
+            temp = group_prev.next
+            group_prev.next = kh
+            group_prev = temp
+    
