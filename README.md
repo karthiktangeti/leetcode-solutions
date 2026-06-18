@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3169-count-days-without-meetings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3169-count-days-without-meetings) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2578-split-with-minimum-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
+| [3169-count-days-without-meetings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3169-count-days-without-meetings) |
 ## Bit Manipulation
 |  |
 | ------- |
