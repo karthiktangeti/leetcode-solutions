@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -493,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
