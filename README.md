@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0784-letter-case-permutation](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1189-maximum-number-of-balloons](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1763-longest-nice-substring](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1763-longest-nice-substring) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
