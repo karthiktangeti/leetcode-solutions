@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0784-letter-case-permutation) |
