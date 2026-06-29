@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2121-intervals-between-identical-elements](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Two Pointers
