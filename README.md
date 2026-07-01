@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -383,11 +385,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0306-additive-number](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0401-binary-watch) |
