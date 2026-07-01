@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## String Matching
