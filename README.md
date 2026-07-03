@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Matrix
 |  |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Design
 |  |
 | ------- |
