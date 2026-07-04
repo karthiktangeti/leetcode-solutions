@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Trie
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -409,12 +411,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## String Matching
 |  |
 | ------- |
