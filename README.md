@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0812-largest-triangle-area](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0812-largest-triangle-area) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
