@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Rolling Hash
 |  |
 | ------- |
