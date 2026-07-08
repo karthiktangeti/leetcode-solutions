@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
