@@ -1,0 +1,16 @@
+from collections import deque
+class Solution(object):
+    def countStudents(self, students, sandwiches):
+        students = deque(students)
+        sandwiches = deque(sandwiches)
+        count = 0
+        while students and count < len(sandwiches):
+            if students[0] == sandwiches[0]:
+                students.popleft()
+                sandwiches.popleft()
+                count = 0
+            else:
+                students.append(students.popleft())
+                count += 1
+        return len(students)
+        
