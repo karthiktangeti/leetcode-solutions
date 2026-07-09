@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2326-spiral-matrix-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2540-minimum-common-value](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2326-spiral-matrix-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Geometry
 |  |
 | ------- |
