@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0482-license-key-formatting](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0567-permutation-in-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0649-dota2-senate) |
