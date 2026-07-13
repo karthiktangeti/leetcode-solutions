@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [0908-smallest-range-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
+| [1030-matrix-cells-in-distance-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1030-matrix-cells-in-distance-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1089-duplicate-zeros](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1030-matrix-cells-in-distance-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1331-rank-transform-of-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0885-spiral-matrix-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [1030-matrix-cells-in-distance-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1314-matrix-block-sum) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [1030-matrix-cells-in-distance-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Number Theory
 |  |
 | ------- |
