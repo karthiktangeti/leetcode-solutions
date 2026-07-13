@@ -1,6 +1,10 @@
 class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:
-        if nums == sorted(nums) or nums == sorted(nums,reverse = True):
-            return True
-        return False
-        
+        increse = True
+        decrese = True
+        for i in range(1,len(nums)):
+            if nums[i] < nums[i -1]:
+                increse = False
+            if nums[i] > nums[i - 1]:
+                decrese = False
+        return increse or decrese
