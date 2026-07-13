@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0925-long-pressed-name](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1079-letter-tile-possibilities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1108-defanging-an-ip-address](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
