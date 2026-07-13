@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0925-long-pressed-name](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1079-letter-tile-possibilities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1108-defanging-an-ip-address](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0942-di-string-match](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
+| [0942-di-string-match](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0925-long-pressed-name](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
