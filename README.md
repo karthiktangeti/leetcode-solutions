@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2326-spiral-matrix-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
