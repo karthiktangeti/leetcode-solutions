@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2578-split-with-minimum-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
