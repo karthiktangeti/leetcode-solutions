@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1528-shuffle-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1598-crawler-log-folder](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
