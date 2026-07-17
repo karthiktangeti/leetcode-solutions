@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
