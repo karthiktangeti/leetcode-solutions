@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
