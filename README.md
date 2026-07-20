@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1219-path-with-maximum-gold](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1248-count-number-of-nice-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0885-spiral-matrix-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [1260-shift-2d-grid](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
+| [1260-shift-2d-grid](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
