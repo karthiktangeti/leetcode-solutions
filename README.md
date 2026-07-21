@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0817-linked-list-components) |
+| [0888-fair-candy-swap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0881-boats-to-save-people](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [0888-fair-candy-swap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0908-smallest-range-i) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
