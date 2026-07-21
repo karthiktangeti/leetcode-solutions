@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1338-reduce-array-size-to-the-half](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Counting
 |  |
