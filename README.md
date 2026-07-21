@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2326-spiral-matrix-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2578-split-with-minimum-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
