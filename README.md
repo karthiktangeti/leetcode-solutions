@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0791-custom-sort-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0817-linked-list-components) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0888-fair-candy-swap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
