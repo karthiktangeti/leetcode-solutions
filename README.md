@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2490-circular-sentence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
