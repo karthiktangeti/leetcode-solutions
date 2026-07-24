@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Topological Sort
 |  |
 | ------- |
