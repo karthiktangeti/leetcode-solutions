@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1079-letter-tile-possibilities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1122-relative-sort-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-bag-of-tokens](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1089-duplicate-zeros](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1089-duplicate-zeros) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
