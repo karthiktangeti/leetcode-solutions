@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3169-count-days-without-meetings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3169-count-days-without-meetings) |
+| [3536-maximum-product-of-two-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
