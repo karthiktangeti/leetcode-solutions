@@ -1,4 +1,3 @@
-import sys
 from collections import deque
 class Solution(object):
     def shortestPathBinaryMatrix(self, grid):
@@ -6,22 +5,23 @@ class Solution(object):
             return -1
         cols = len(grid[0])
         rows = len(grid)
-        distance = [[sys.maxsize for _ in range(cols)] for _ in range(rows)]
-        distance[0][0] = 1
+        dis = [[float("inf")] * cols for i in range(rows)]
         queue = deque()
         queue.append([1,0,0])
-        while len(queue):
-            dist,i,j = queue.popleft()
-            for x,y in [[1,0],[0,1],[-1,1],[1,-1],[1,1],[-1,-1],[0,-1],[-1,0]]:
-                new_i,new_j = x + i, y + j
-                if new_i < 0 or new_i >= rows or new_j < 0 or new_j >= cols:
+        dis[0][0] = 1
+        while queue:
+            d,i,j = queue.popleft()
+            for r,c in [[1,0],[0,1],[-1,1],[1,-1],[1,1],[-1,-1],[0,-1],[-1,0]]:
+                n_r,n_c = i + r,c + j
+                if n_r < 0 or n_r >= rows or n_c < 0 or n_c >= cols:
                     continue
-                if grid[new_i][new_j] == 1:
+                if grid[n_r][n_c] == 1:
                     continue
-                dist_trev = dist + 1
-                if dist_trev < distance[new_i][new_j]:
-                    distance[new_i][new_j] = dist_trev
-                    queue.append([dist_trev,new_i,new_j])
-        if distance[rows - 1][cols - 1] == sys.maxsize:
+                dist_trev = d + 1
+                if dist_trev < dis[n_r][n_c]:
+                    dis[n_r][n_c] = dist_trev
+                    queue.append((dist_trev,n_r,n_c))
+        if dis[rows -1][cols - 1] == float("inf"):
             return -1
-        return distance[rows - 1][cols - 1]
+        return dis[rows - 1][cols - 1]
+        
