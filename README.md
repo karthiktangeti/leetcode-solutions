@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2326-spiral-matrix-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -653,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Counting
 |  |
@@ -770,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
