@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
