@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1462-course-schedule-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1462-course-schedule-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1462-course-schedule-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
