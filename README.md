@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0396-rotate-function](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0396-rotate-function) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0888-fair-candy-swap) |
