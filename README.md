@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
