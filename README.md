@@ -877,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1615-maximal-network-rank](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
