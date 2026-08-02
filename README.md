@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Counting
 |  |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1615-maximal-network-rank) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -887,11 +890,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
