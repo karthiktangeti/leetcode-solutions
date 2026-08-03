@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2974-minimum-number-game](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3169-count-days-without-meetings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3169-count-days-without-meetings) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2974-minimum-number-game](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2578-split-with-minimum-sum](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2974-minimum-number-game](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3169-count-days-without-meetings](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2974-minimum-number-game](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
