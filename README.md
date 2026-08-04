@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0812-largest-triangle-area](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0817-linked-list-components](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0817-linked-list-components) |
+| [0851-loud-and-rich](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [0881-boats-to-save-people](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0888-fair-candy-swap) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [0997-find-the-town-judge](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -896,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -906,4 +910,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/karthiktangeti/leetcode-solutions/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
