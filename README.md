@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-evaluate-boolean-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3310-remove-methods-from-project](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3310-remove-methods-from-project](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karthiktangeti/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthiktangeti/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/karthiktangeti/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
